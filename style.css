@@ -8,7 +8,6 @@ body{
 font-family: 'Open Sans', sans-serif;
 }
 nav{
-padding-top: 11px;
 background: url(img/Rectangle.png);
 background-repeat: no-repeat;
 background-size: cover;
@@ -69,22 +68,131 @@ border: none;
 }
 /* ============================================================================== */
 .credit{
-   background-color: #28A745;
-   border-radius: 50%;
-   width: 60px;
-   height: 60px;
+margin-left: 160px;
+background-color: #28A745;
+border-radius: 50%;
+width: 60px;
+height: 60px;
+margin-bottom: 15px;
 }
 .bank{
-
+width: 40px;
+height: 40px;
+margin-left: 9px;
+margin-top: 5px;
+}
+.banking{
+text-align: center;
+font-weight: 400;
+font-size: 20px;
+margin-bottom: 15px;
+color: #333333;
+}
+.ispum{
+text-align: center;
+font-weight: 400;
+font-size: 18px;
+color: #333333;
+}
+.bigCard{
+margin-top:40px ;
 }
 /* ============================================================================== */
+.yellowCard2{
+margin-left: 50px;
+}
+.yellowCard{
+background: #28A745;
+width: 680px;
+height: 460px;
+}
+.what{
+padding-top: 84px;
+color: #FFFFFF;
+font-weight: 400;
+font-size: 20px;
+}
+.bespoke{
+font-weight: 300;
+font-size: 38px;
+color: #FFFFFF;
+padding-bottom: 26px;
+}
+.dolor{
+font-weight: 400;
+font-size: 18px;
+color: #FFFFFF;
+}
+.more{
+margin-top: 15px;
+font-weight: 400;
+font-size: 18px;
+border: 1px solid #FFFFFF;
+border-radius: 5px;
+color: #FFFFFF;
+background: #28A745;
+padding: 11px 44px;
+}
 /* ============================================================================== */
+.thisCard{
+text-align: center;
+margin-top: 50px;
+}
+.this{
+color: #333333;
+font-weight: 400;
+font-size: 20px;
+}
+.case{
+font-weight: 300;
+font-size: 38px;
+margin-top: 15px;
+color: #333333;
+}
+.elit{
+margin-top: 30px;
+font-weight: 400;
+font-size: 18px;
+color: #333333;
+}
 /* ============================================================================== */
+.nout{
+width: 320px;
+height: 214px;
+margin-top: 10px;
+}
 /* ============================================================================== */
+.blueCard{
+   background: #0284D0;
+   width: 680px;
+   height: 460px;
+   }
+.more2{
+   border: 1px solid #FFFFFF;
+border-radius: 5px;
+background-color: #0284D0;
+padding: 11px 44px;
+color: #FFFFFF;
+font-weight: 400;
+font-size: 18px;
+}
+.krujka{
+   width: 680px;
+height: 465px;
+}
 /* ============================================================================== */
+
 /* ============================================================================== */
+
 /* ============================================================================== */
+
 /* ============================================================================== */
+
 /* ============================================================================== */
+
 /* ============================================================================== */
-/* ============================================================================== */
+
+/* ===========================Responsive=================================================== */
+@media (max-width:575px) {
+   
+}
