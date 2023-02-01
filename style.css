@@ -1,0 +1,90 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+list-style: none;
+}
+body{
+font-family: 'Open Sans', sans-serif;
+}
+nav{
+padding-top: 11px;
+background: url(img/Rectangle.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.finance{
+color: #28A745;
+font-weight: 400;
+font-size: 35px;
+margin-left: 10px;
+}
+.financeS{
+color: #FFFFFF;
+}
+.logoCard{
+display: flex;
+align-items: start;
+}
+.list_a{
+text-decoration: none;
+margin-left: 20px;
+color: #FFFFFF;
+}
+.list_itam{
+font-weight: 400;
+font-size: 18px;
+color: #FFFFFF;
+}
+.list{
+display: flex;
+justify-content: space-between;
+}
+/* ============================================================================== */
+.skyCard{
+text-align: center;
+margin-top: 225px;
+margin-bottom: 240px;
+}
+.sky{
+color: #E9E9E9;
+font-weight: 300;
+font-size: 55px;
+}
+.weProvide{
+font-weight: 400;
+font-size: 22px;
+color: #E9E9E9;
+margin-top: 25px;
+margin-bottom: 29px;
+}
+.read{
+font-weight: 400;
+font-size: 18px;
+color: #FFFFFF;
+background: #28A745;
+border-radius: 5px;
+padding: 10px 30px;
+border: none;
+}
+/* ============================================================================== */
+.credit{
+   background-color: #28A745;
+   border-radius: 50%;
+   width: 60px;
+   height: 60px;
+}
+.bank{
+
+}
+/* ============================================================================== */
+/* ============================================================================== */
+/* ============================================================================== */
+/* ============================================================================== */
+/* ============================================================================== */
+/* ============================================================================== */
+/* ============================================================================== */
+/* ============================================================================== */
+/* ============================================================================== */
+/* ============================================================================== */
+/* ============================================================================== */
