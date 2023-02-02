@@ -8,6 +8,7 @@ body{
 font-family: 'Open Sans', sans-serif;
 }
 nav{
+padding-top: 15px;
 background: url(img/Rectangle.png);
 background-repeat: no-repeat;
 background-size: cover;
@@ -163,36 +164,177 @@ margin-top: 10px;
 }
 /* ============================================================================== */
 .blueCard{
-   background: #0284D0;
-   width: 680px;
-   height: 460px;
-   }
-.more2{
-   border: 1px solid #FFFFFF;
-border-radius: 5px;
-background-color: #0284D0;
-padding: 11px 44px;
-color: #FFFFFF;
-font-weight: 400;
-font-size: 18px;
-}
-.krujka{
-   width: 680px;
+background: #0284D0;
+width: 680px;
 height: 465px;
 }
+.krujka{
+width: 680px;
+height: 465px;
+}
+.april{
+padding-top: 110px;
+font-weight: 400;
+font-size: 20px;
+color: #FFFFFF;
+}
+.bigPost{
+margin-top: 10px;
+font-weight: 300;
+font-size: 38px;
+color: #FFFFFF;
+}
+.vol{
+font-weight: 400;
+font-size: 18px;
+color: #FFFFFF;
+margin-top: 25px;
+margin-bottom: 15px;
+}
+.blog{
+font-weight: 400;
+font-size: 18px;
+border: 1px solid #FFFFFF;
+border-radius: 5px;
+padding: 11px 44px;
+background: #0284D0;
+color: #FFFFFF;
+}
+.blueCard2{
+margin-left: 50px;
+}
 /* ============================================================================== */
-
+.doe{
+color: #333333;
+font-weight: 400;
+font-size: 25px;
+text-align: center;
+}
+.president{
+font-weight: 400;
+font-size: 18px;
+color: #333333;
+text-align: center;
+}
+.jane{
+width: 420px;
+height: 280px;
+margin-top: 40px;
+}
 /* ============================================================================== */
-
+.phone{
+width: 680px;
+height: 460px;
+}
+.inputCard{
+   padding-left: 50px;
+   width: 680px;
+   height: 460px;
+   background: #F4F4F4;
+   border-radius: 0px;
+}
+.name{
+margin-top: 30px;
+width: 620px;
+height: 40px;
+outline: none;
+border: none;
+}
+.call{
+   font-weight: 300;
+font-size: 38px;
+color: #333333;
+padding-top: 80px;
+}
+.send{
+font-weight: 400;
+font-size: 18px;
+color: #FFFFFF;
+text-align: center;
+width: 570px;
+height: 42px;
+background: #28A745;
+border-radius: 5px;
+border: none;
+margin-top: 65px;
+margin-bottom: 82px;
+}
 /* ============================================================================== */
-
-/* ============================================================================== */
-
-/* ============================================================================== */
-
-/* ============================================================================== */
+footer{
+background: #333333;
+/* border-radius: 0px; */
+}
+.facebook{
+   margin-top: 10px;
+   text-align: center;
+}
+.copy{
+   font-weight: 400;
+font-size: 18px;
+color: #FFFFFF;
+margin-top: 10px;
+}
 
 /* ===========================Responsive=================================================== */
 @media (max-width:575px) {
-   
+   .finance {
+      color: #28A745;
+      font-weight: 400;
+      font-size: 31px;
+      margin-left: 10px;
+  }
+  .list_a{
+   margin: 0;
+  }
+  .list_itam {
+   font-weight: 400;
+   font-size: 14px;
+   color: #FFFFFF;
+}
+.skyCard {
+   text-align: center;
+   margin-top: 44px;
+   margin-bottom: 240px;
+}
+.credit{
+   margin-left: 110px;
+}
+.offic{
+   width: 100%;
+}
+.yellowCard{
+   width: 100%;
+   height: 100%;
+   padding-bottom: 100px;
+}
+.nout{
+   width: 100%;
+}
+.blueCard{
+   width: 100%;
+   height: 100%;
+   padding-bottom: 100px;
+}
+.krujka{
+   width: 100%;
+   height: 100%;
+}
+.jane{
+   width: 100%;
+   height: 100%;
+}
+.phone{
+   width: 100%;
+   height: 100%;
+}
+.inputCard{
+   width: 100%;
+   height: 100%;
+}
+.send{
+   width: 100%;
+}
+footer {
+   width: 96%;
+}
 }
